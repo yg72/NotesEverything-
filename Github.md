@@ -13,3 +13,4 @@
 * back to previous edition
   * git log
   * git reset --hard (commit)
+  * 
